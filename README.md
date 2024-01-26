@@ -2,6 +2,8 @@
 
 A Card Game by Keegan Noecker & Sherri Noecker (Wheeler)
 
+<img src="logo.png" width="200" alt="Chemical Chaos logo" style="float:right;margin:5px;">
+
 Global Game Jam 2024
 
 https://globalgamejam.org/games/2024/chemical-chaos-2
@@ -17,6 +19,11 @@ Chemical Chaos! is a printable casual party card game designed to be quick to le
   * **Required Components:**
     * Chemical Chaos! printable playing cards (included)
     * Score counting tokens or a pen & paper (not included)
+
+## How To Use This Repository
+
+  * To play the game, download the PDF files in the `/Game/` directory. Print and cut out the cards. Full, printable instructions are included.
+  * To adapt the game, the source files are in `/Source/` including GIMP image files and LibreOffice Draw and Doc files are also included.
 
 ## Objective
 
